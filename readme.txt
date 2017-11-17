@@ -1,4 +1,4 @@
 My great project
 
 
-this is my honors project.
+This is my honours project.
